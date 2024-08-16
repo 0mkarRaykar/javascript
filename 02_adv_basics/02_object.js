@@ -63,6 +63,7 @@ const obj3 = { e: 1, f: 2 };
 const obj4 = { ...obj1, ...obj2, ...obj3 }; // method 2 to access object
 // console.log(obj4);
 
+// objects inside an array
 const users = [
   {
     id: 1,
