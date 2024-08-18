@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: beige;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+  }
+  .container {
+    max-width: 400px;
+  }
+  .img-class,
+  .text {
+    width: 100px;
+    display: block;
+    margin: auto;
+    text-align: center;
+  }
+  .text {
+    text-decoration: none;
+    color: beige;
+  }
